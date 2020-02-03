@@ -618,6 +618,7 @@ label{
         }
     .footerList{
      	flex-direction: column;
+	 padding: 15px;
         }
     .footer-nav{
      	justify-content: center;
