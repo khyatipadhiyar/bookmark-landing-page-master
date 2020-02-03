@@ -226,8 +226,8 @@ label{
 	border-radius: 5px;
 	box-shadow: 0 4px 8px -2px rgba(173,171,173,0.81);
 	color: #fff;
-	font-size: 0.9rem;
-	font-weight: bold;
+	font-size: 1.1rem;
+	font-weight: 500;
 	cursor: pointer;
 	letter-spacing: 1px;
 	font-family: 'Rubik', sans-serif;
@@ -375,13 +375,16 @@ label{
 .btn-faq{
 	color: #fff;
 	background-color: hsl(231, 69%, 60%);
+	font-family: 'Rubik', sans-serif;
 	font-size: 1.1rem;
+	font-weight: 500;
 	border: none;
 	border-radius: 5px;
 	padding: 10px 20px;
 	margin: 50px 0 50px;
 	box-shadow:0 5px 10px 3px rgba(0,0,0,0.2);
 	cursor: pointer;
+	
     }
 .contact{
 	color: #fff;
