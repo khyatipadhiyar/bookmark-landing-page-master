@@ -229,7 +229,6 @@ label{
 	font-size: 1.1rem;
 	font-weight: 500;
 	cursor: pointer;
-	letter-spacing: 1px;
 	font-family: 'Rubik', sans-serif;
 }
 
@@ -380,11 +379,10 @@ label{
 	font-weight: 500;
 	border: none;
 	border-radius: 5px;
-	padding: 10px 20px;
+	padding: 15px 30px;
 	margin: 50px 0 50px;
 	box-shadow:0 5px 10px 3px rgba(0,0,0,0.2);
-	cursor: pointer;
-	
+	cursor: pointer;	
     }
 .contact{
 	color: #fff;
